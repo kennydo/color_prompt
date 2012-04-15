@@ -2,13 +2,13 @@ import platform
 
 colors = [
 #    "0;30", # black, looks boring
-    "1;31", # red
-    "1;32", # green
-    "1;33", # yellow
-    "1;34", # blue
-    "1;35", # purple
-    "1;36", # cyan
-    "1;37", # white
+    "0;31", # red
+    "0;32", # green
+    "0;33", # yellow
+    "0;34", # blue
+    "0;35", # purple
+    "0;36", # cyan
+    "0;37", # white
 ]
 
 def hostname():
